@@ -15,6 +15,7 @@ gem 'haml', '~> 4.0.7'
 gem 'devise'
 gem 'paperclip'
 gem 'masonry-rails'
+gem 'acts_as_votable'
 gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'simple_form', '~> 3.0.2'
 group :development, :test do
